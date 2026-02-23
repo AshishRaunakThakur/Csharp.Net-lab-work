@@ -1,0 +1,14 @@
+M:\C# Lab\PalindromeString\PalindromeString\bin\Debug\net10.0\PalindromeString.exe
+M:\C# Lab\PalindromeString\PalindromeString\bin\Debug\net10.0\PalindromeString.deps.json
+M:\C# Lab\PalindromeString\PalindromeString\bin\Debug\net10.0\PalindromeString.runtimeconfig.json
+M:\C# Lab\PalindromeString\PalindromeString\bin\Debug\net10.0\PalindromeString.dll
+M:\C# Lab\PalindromeString\PalindromeString\bin\Debug\net10.0\PalindromeString.pdb
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\PalindromeString.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\PalindromeString.AssemblyInfoInputs.cache
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\PalindromeString.AssemblyInfo.cs
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\PalindromeString.csproj.CoreCompileInputs.cache
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\PalindromeString.dll
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\refint\PalindromeString.dll
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\PalindromeString.pdb
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\PalindromeString.genruntimeconfig.cache
+M:\C# Lab\PalindromeString\PalindromeString\obj\Debug\net10.0\ref\PalindromeString.dll
