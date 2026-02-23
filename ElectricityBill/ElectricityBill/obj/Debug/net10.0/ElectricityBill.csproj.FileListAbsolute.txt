@@ -1,0 +1,14 @@
+M:\C# Lab\ElectricityBill\ElectricityBill\bin\Debug\net10.0\ElectricityBill.exe
+M:\C# Lab\ElectricityBill\ElectricityBill\bin\Debug\net10.0\ElectricityBill.deps.json
+M:\C# Lab\ElectricityBill\ElectricityBill\bin\Debug\net10.0\ElectricityBill.runtimeconfig.json
+M:\C# Lab\ElectricityBill\ElectricityBill\bin\Debug\net10.0\ElectricityBill.dll
+M:\C# Lab\ElectricityBill\ElectricityBill\bin\Debug\net10.0\ElectricityBill.pdb
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ElectricityBill.AssemblyInfoInputs.cache
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ElectricityBill.AssemblyInfo.cs
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ElectricityBill.csproj.CoreCompileInputs.cache
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ElectricityBill.dll
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\refint\ElectricityBill.dll
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ElectricityBill.pdb
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ElectricityBill.genruntimeconfig.cache
+M:\C# Lab\ElectricityBill\ElectricityBill\obj\Debug\net10.0\ref\ElectricityBill.dll
