@@ -1,0 +1,14 @@
+M:\C# Lab\MinNumber\MinNumber\bin\Debug\net10.0\MinNumber.exe
+M:\C# Lab\MinNumber\MinNumber\bin\Debug\net10.0\MinNumber.deps.json
+M:\C# Lab\MinNumber\MinNumber\bin\Debug\net10.0\MinNumber.runtimeconfig.json
+M:\C# Lab\MinNumber\MinNumber\bin\Debug\net10.0\MinNumber.dll
+M:\C# Lab\MinNumber\MinNumber\bin\Debug\net10.0\MinNumber.pdb
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\MinNumber.AssemblyInfoInputs.cache
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\MinNumber.AssemblyInfo.cs
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\MinNumber.csproj.CoreCompileInputs.cache
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\MinNumber.dll
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\refint\MinNumber.dll
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\MinNumber.pdb
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\MinNumber.genruntimeconfig.cache
+M:\C# Lab\MinNumber\MinNumber\obj\Debug\net10.0\ref\MinNumber.dll
