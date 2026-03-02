@@ -1,0 +1,14 @@
+M:\C# Lab\MaximumNumber\MaximumNumber\bin\Debug\net10.0\MaximumNumber.exe
+M:\C# Lab\MaximumNumber\MaximumNumber\bin\Debug\net10.0\MaximumNumber.deps.json
+M:\C# Lab\MaximumNumber\MaximumNumber\bin\Debug\net10.0\MaximumNumber.runtimeconfig.json
+M:\C# Lab\MaximumNumber\MaximumNumber\bin\Debug\net10.0\MaximumNumber.dll
+M:\C# Lab\MaximumNumber\MaximumNumber\bin\Debug\net10.0\MaximumNumber.pdb
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\MaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\MaximumNumber.AssemblyInfoInputs.cache
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\MaximumNumber.AssemblyInfo.cs
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\MaximumNumber.csproj.CoreCompileInputs.cache
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\MaximumNumber.dll
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\refint\MaximumNumber.dll
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\MaximumNumber.pdb
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\MaximumNumber.genruntimeconfig.cache
+M:\C# Lab\MaximumNumber\MaximumNumber\obj\Debug\net10.0\ref\MaximumNumber.dll
