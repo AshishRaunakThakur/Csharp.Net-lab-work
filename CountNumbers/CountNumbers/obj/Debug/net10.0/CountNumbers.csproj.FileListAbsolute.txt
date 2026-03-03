@@ -1,0 +1,14 @@
+M:\C# Lab\CountNumbers\CountNumbers\bin\Debug\net10.0\CountNumbers.exe
+M:\C# Lab\CountNumbers\CountNumbers\bin\Debug\net10.0\CountNumbers.deps.json
+M:\C# Lab\CountNumbers\CountNumbers\bin\Debug\net10.0\CountNumbers.runtimeconfig.json
+M:\C# Lab\CountNumbers\CountNumbers\bin\Debug\net10.0\CountNumbers.dll
+M:\C# Lab\CountNumbers\CountNumbers\bin\Debug\net10.0\CountNumbers.pdb
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\CountNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\CountNumbers.AssemblyInfoInputs.cache
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\CountNumbers.AssemblyInfo.cs
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\CountNumbers.csproj.CoreCompileInputs.cache
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\CountNumbers.dll
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\refint\CountNumbers.dll
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\CountNumbers.pdb
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\CountNumbers.genruntimeconfig.cache
+M:\C# Lab\CountNumbers\CountNumbers\obj\Debug\net10.0\ref\CountNumbers.dll
