@@ -1,0 +1,14 @@
+M:\C# Lab\Rectangle\Rectangle\bin\Debug\net10.0\Rectangle.exe
+M:\C# Lab\Rectangle\Rectangle\bin\Debug\net10.0\Rectangle.deps.json
+M:\C# Lab\Rectangle\Rectangle\bin\Debug\net10.0\Rectangle.runtimeconfig.json
+M:\C# Lab\Rectangle\Rectangle\bin\Debug\net10.0\Rectangle.dll
+M:\C# Lab\Rectangle\Rectangle\bin\Debug\net10.0\Rectangle.pdb
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.AssemblyInfoInputs.cache
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.AssemblyInfo.cs
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.csproj.CoreCompileInputs.cache
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.dll
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\refint\Rectangle.dll
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.pdb
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\Rectangle.genruntimeconfig.cache
+M:\C# Lab\Rectangle\Rectangle\obj\Debug\net10.0\ref\Rectangle.dll
