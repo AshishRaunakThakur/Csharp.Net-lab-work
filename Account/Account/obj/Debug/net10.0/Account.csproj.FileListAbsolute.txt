@@ -1,0 +1,14 @@
+M:\C# Lab\Account\Account\bin\Debug\net10.0\Account.exe
+M:\C# Lab\Account\Account\bin\Debug\net10.0\Account.deps.json
+M:\C# Lab\Account\Account\bin\Debug\net10.0\Account.runtimeconfig.json
+M:\C# Lab\Account\Account\bin\Debug\net10.0\Account.dll
+M:\C# Lab\Account\Account\bin\Debug\net10.0\Account.pdb
+M:\C# Lab\Account\Account\obj\Debug\net10.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\Account\Account\obj\Debug\net10.0\Account.AssemblyInfoInputs.cache
+M:\C# Lab\Account\Account\obj\Debug\net10.0\Account.AssemblyInfo.cs
+M:\C# Lab\Account\Account\obj\Debug\net10.0\Account.csproj.CoreCompileInputs.cache
+M:\C# Lab\Account\Account\obj\Debug\net10.0\Account.dll
+M:\C# Lab\Account\Account\obj\Debug\net10.0\refint\Account.dll
+M:\C# Lab\Account\Account\obj\Debug\net10.0\Account.pdb
+M:\C# Lab\Account\Account\obj\Debug\net10.0\Account.genruntimeconfig.cache
+M:\C# Lab\Account\Account\obj\Debug\net10.0\ref\Account.dll
