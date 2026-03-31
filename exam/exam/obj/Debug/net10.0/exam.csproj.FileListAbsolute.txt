@@ -1,0 +1,14 @@
+M:\C# Lab\exam\exam\bin\Debug\net10.0\exam.exe
+M:\C# Lab\exam\exam\bin\Debug\net10.0\exam.deps.json
+M:\C# Lab\exam\exam\bin\Debug\net10.0\exam.runtimeconfig.json
+M:\C# Lab\exam\exam\bin\Debug\net10.0\exam.dll
+M:\C# Lab\exam\exam\bin\Debug\net10.0\exam.pdb
+M:\C# Lab\exam\exam\obj\Debug\net10.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\exam\exam\obj\Debug\net10.0\exam.AssemblyInfoInputs.cache
+M:\C# Lab\exam\exam\obj\Debug\net10.0\exam.AssemblyInfo.cs
+M:\C# Lab\exam\exam\obj\Debug\net10.0\exam.csproj.CoreCompileInputs.cache
+M:\C# Lab\exam\exam\obj\Debug\net10.0\exam.dll
+M:\C# Lab\exam\exam\obj\Debug\net10.0\refint\exam.dll
+M:\C# Lab\exam\exam\obj\Debug\net10.0\exam.pdb
+M:\C# Lab\exam\exam\obj\Debug\net10.0\exam.genruntimeconfig.cache
+M:\C# Lab\exam\exam\obj\Debug\net10.0\ref\exam.dll
