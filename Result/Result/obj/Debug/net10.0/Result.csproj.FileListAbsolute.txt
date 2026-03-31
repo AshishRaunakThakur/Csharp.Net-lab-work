@@ -1,0 +1,14 @@
+M:\C# Lab\Result\Result\bin\Debug\net10.0\Result.exe
+M:\C# Lab\Result\Result\bin\Debug\net10.0\Result.deps.json
+M:\C# Lab\Result\Result\bin\Debug\net10.0\Result.runtimeconfig.json
+M:\C# Lab\Result\Result\bin\Debug\net10.0\Result.dll
+M:\C# Lab\Result\Result\bin\Debug\net10.0\Result.pdb
+M:\C# Lab\Result\Result\obj\Debug\net10.0\Result.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\Result\Result\obj\Debug\net10.0\Result.AssemblyInfoInputs.cache
+M:\C# Lab\Result\Result\obj\Debug\net10.0\Result.AssemblyInfo.cs
+M:\C# Lab\Result\Result\obj\Debug\net10.0\Result.csproj.CoreCompileInputs.cache
+M:\C# Lab\Result\Result\obj\Debug\net10.0\Result.dll
+M:\C# Lab\Result\Result\obj\Debug\net10.0\refint\Result.dll
+M:\C# Lab\Result\Result\obj\Debug\net10.0\Result.pdb
+M:\C# Lab\Result\Result\obj\Debug\net10.0\Result.genruntimeconfig.cache
+M:\C# Lab\Result\Result\obj\Debug\net10.0\ref\Result.dll
