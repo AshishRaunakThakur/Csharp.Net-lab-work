@@ -1,7 +1,0 @@
-A:\C#\Result\Result\obj\Debug\Result.csproj.AssemblyReference.cache
-A:\C#\Result\Result\obj\Debug\Result.csproj.CoreCompileInputs.cache
-A:\C#\Result\Result\bin\Debug\Result.exe.config
-A:\C#\Result\Result\bin\Debug\Result.exe
-A:\C#\Result\Result\bin\Debug\Result.pdb
-A:\C#\Result\Result\obj\Debug\Result.exe
-A:\C#\Result\Result\obj\Debug\Result.pdb
