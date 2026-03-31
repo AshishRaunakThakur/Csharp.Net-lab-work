@@ -1,0 +1,14 @@
+M:\C# Lab\pass\pass\bin\Debug\net10.0\pass.exe
+M:\C# Lab\pass\pass\bin\Debug\net10.0\pass.deps.json
+M:\C# Lab\pass\pass\bin\Debug\net10.0\pass.runtimeconfig.json
+M:\C# Lab\pass\pass\bin\Debug\net10.0\pass.dll
+M:\C# Lab\pass\pass\bin\Debug\net10.0\pass.pdb
+M:\C# Lab\pass\pass\obj\Debug\net10.0\pass.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\pass\pass\obj\Debug\net10.0\pass.AssemblyInfoInputs.cache
+M:\C# Lab\pass\pass\obj\Debug\net10.0\pass.AssemblyInfo.cs
+M:\C# Lab\pass\pass\obj\Debug\net10.0\pass.csproj.CoreCompileInputs.cache
+M:\C# Lab\pass\pass\obj\Debug\net10.0\pass.dll
+M:\C# Lab\pass\pass\obj\Debug\net10.0\refint\pass.dll
+M:\C# Lab\pass\pass\obj\Debug\net10.0\pass.pdb
+M:\C# Lab\pass\pass\obj\Debug\net10.0\pass.genruntimeconfig.cache
+M:\C# Lab\pass\pass\obj\Debug\net10.0\ref\pass.dll
