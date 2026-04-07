@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TryCatchAndFinally/1.0.0": {
+        "runtime": {
+          "TryCatchAndFinally.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryCatchAndFinally/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

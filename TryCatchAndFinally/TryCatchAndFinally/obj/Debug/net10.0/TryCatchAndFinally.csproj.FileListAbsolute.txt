@@ -1,0 +1,14 @@
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\bin\Debug\net10.0\TryCatchAndFinally.exe
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\bin\Debug\net10.0\TryCatchAndFinally.deps.json
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\bin\Debug\net10.0\TryCatchAndFinally.runtimeconfig.json
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\bin\Debug\net10.0\TryCatchAndFinally.dll
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\bin\Debug\net10.0\TryCatchAndFinally.pdb
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\TryCatchAndFinally.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\TryCatchAndFinally.AssemblyInfoInputs.cache
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\TryCatchAndFinally.AssemblyInfo.cs
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\TryCatchAndFinally.csproj.CoreCompileInputs.cache
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\TryCatchAndFinally.dll
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\refint\TryCatchAndFinally.dll
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\TryCatchAndFinally.pdb
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\TryCatchAndFinally.genruntimeconfig.cache
+M:\C# Lab\TryCatchAndFinally\TryCatchAndFinally\obj\Debug\net10.0\ref\TryCatchAndFinally.dll
