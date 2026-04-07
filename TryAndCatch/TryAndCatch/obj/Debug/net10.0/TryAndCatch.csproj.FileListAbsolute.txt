@@ -1,0 +1,14 @@
+M:\C# Lab\TryAndCatch\TryAndCatch\bin\Debug\net10.0\TryAndCatch.exe
+M:\C# Lab\TryAndCatch\TryAndCatch\bin\Debug\net10.0\TryAndCatch.deps.json
+M:\C# Lab\TryAndCatch\TryAndCatch\bin\Debug\net10.0\TryAndCatch.runtimeconfig.json
+M:\C# Lab\TryAndCatch\TryAndCatch\bin\Debug\net10.0\TryAndCatch.dll
+M:\C# Lab\TryAndCatch\TryAndCatch\bin\Debug\net10.0\TryAndCatch.pdb
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\TryAndCatch.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\TryAndCatch.AssemblyInfoInputs.cache
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\TryAndCatch.AssemblyInfo.cs
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\TryAndCatch.csproj.CoreCompileInputs.cache
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\TryAndCatch.dll
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\refint\TryAndCatch.dll
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\TryAndCatch.pdb
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\TryAndCatch.genruntimeconfig.cache
+M:\C# Lab\TryAndCatch\TryAndCatch\obj\Debug\net10.0\ref\TryAndCatch.dll
